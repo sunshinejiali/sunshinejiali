@@ -1,10 +1,8 @@
 # Hi bro🤖
 
-My name is Jiali, it's my code-repository here.
+My name is Jiali.
 
-I am a software engineer from "Shanghai". And I also interested in Database🚀, Distributed System💫 and Storage System🎯.
-
-3FS / Minio 
+I'm a developer who drops by when bored, wandering gently outside every repository.
 
 You can also contact me via email (sunshinejiali98@163.com😎).
 
